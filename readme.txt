@@ -1,4 +1,4 @@
-Flashpoker 1.8.9 by Iogisoft di Francesco Li Volsi (2009-2010)
+Flashpoker 1.8.9 by Iogisoft di Francesco Li Volsi (2009)
 
 Create DB => Go to /install/ => insert as BaseUrl [SITE PATH]/index/ => Change Pass from admin admin
 
