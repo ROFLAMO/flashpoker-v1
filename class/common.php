@@ -321,7 +321,7 @@ function columnSort($unsorted, $column) {
  */
 function getMsgRegister($usr, $mail, $confirm_code) {
     $msg = "Witamy w " . SERVER_NAME . " ! ";
-    $msg .= "\n\nDzi�kujemy " . $usr . ", Rejestracja musi zosta� potwierdzona przez klikni�cie w link: ";
+    $msg .= "\n\nThanks " . $usr . " for your registration pls follow this link in order to confirm your email: ";
     $msg .= "\n" . _myurl . "?act_value=" . PKR_WWW . "&sub_act_value=" . PKR_CONFIRM . "&usr=" . urlencode($usr) . "&mail=" . urlencode($mail) . "&code=" . $confirm_code;
     $msg .= "\n\n ";
     $msg .= "\n";

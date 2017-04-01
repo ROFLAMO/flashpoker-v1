@@ -500,7 +500,7 @@ class ExternalView
 				</form>
 				
 				<td colspan="6" align="center">
-				<a href="javascript:goRegister()"><b><u>REJESTRACJA</u></b></a>
+				<a href="javascript:goRegister()"><b><u>REGISTRATION</u></b></a>
 				</td></tr>				
 				</table>
 			<?php	
