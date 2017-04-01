@@ -1,0 +1,8 @@
+body { 	background-image: url("../images/bkg.gif");	margin: 0px; padding: 0px; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px;	font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; color: #000000; text-decoration: none;	scrollbar-base-color: #4a595e;	scrollbar-face-color: #4a595e;	scrollbar-shadow-color: #FFFFFF;	scrollbar-arrow-color: #FFFFFF;	scrollbar-highlight-color: #FFFFFF;	scrollbar-dark-shadow-color: #FFFFFF; scrollbar-3d-light-color: #FFFFFF; scrollbar-track-color: #FFFFFF }
+a:link { text-decoration: none; color: #000000 }
+a:visited {	text-decoration: none;	color: #000000 }
+a:hover { text-decoration: none; color: #FF9900 }
+table { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; color: #000000; text-decoration: none }
+input {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px }
+select {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; height:18px; border: 1px #4a595e groove; font-weight: bold; margin-top: 1px; margin-right: 1px; margin-bottom: 1px; margin-left: 1px }
+textarea {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px }

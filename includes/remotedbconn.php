@@ -1,0 +1,1 @@
+<?php define("_myurl","http://flashpoker.localhost/index/index.php"); define("DB_ADDRESS","localhost"); define("DB_NAME","flashpoker"); define("DB_USER","root"); define("DB_PASS",""); ?>

@@ -1,0 +1,1 @@
+<?php define("PKR_USR_ADMIN","admin"); define("PKR_PSWD_ADMIN","21232f297a57a5a743894a0e4a801fc3"); ?>

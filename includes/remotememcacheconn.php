@@ -1,0 +1,1 @@
+<?php define("MEMCACHE_TIMEOUT" , "30"); define("MEMCACHE_PORT" , "11211"); define("MEMCACHE_HOST" , "127.0.0.1"); ?>

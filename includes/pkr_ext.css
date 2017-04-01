@@ -1,0 +1,8 @@
+body { background-color:transparent }	
+a:link { text-decoration: none; color: #000000 }
+a:visited {	text-decoration: none;	color: #000000 }
+a:hover { text-decoration: none; color: #FF9900 }
+table { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; color: #000000; text-decoration: none }
+input {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px }
+select {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; height:18px; border: 1px #4a595e groove; font-weight: bold; margin-top: 1px; margin-right: 1px; margin-bottom: 1px; margin-left: 1px; margin-bottom: 2px }
+textarea {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px }
